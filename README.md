@@ -3,6 +3,10 @@
 Burgers Of Fury is a third-person action game developed in Unreal Engine 5 as a major high school project. I independently designed and implemented the gameplay systems, AI, combat mechanics, level progression and user interface from concept through testing.
 In this repo is the documentation of the game.
 
+To play the game, you can download the zip from:
+https://g0j1.itch.io/burgers-of-fury 
+
+
 # Features
     Third-person movement
     Player animation using state machines
